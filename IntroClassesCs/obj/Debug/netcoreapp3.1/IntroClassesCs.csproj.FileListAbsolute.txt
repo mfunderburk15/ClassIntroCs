@@ -1,0 +1,14 @@
+C:\Users\masen\source\repos\IntroClassesCs\IntroClassesCs\bin\Debug\netcoreapp3.1\IntroClassesCs.exe
+C:\Users\masen\source\repos\IntroClassesCs\IntroClassesCs\bin\Debug\netcoreapp3.1\IntroClassesCs.deps.json
+C:\Users\masen\source\repos\IntroClassesCs\IntroClassesCs\bin\Debug\netcoreapp3.1\IntroClassesCs.runtimeconfig.json
+C:\Users\masen\source\repos\IntroClassesCs\IntroClassesCs\bin\Debug\netcoreapp3.1\IntroClassesCs.runtimeconfig.dev.json
+C:\Users\masen\source\repos\IntroClassesCs\IntroClassesCs\bin\Debug\netcoreapp3.1\IntroClassesCs.dll
+C:\Users\masen\source\repos\IntroClassesCs\IntroClassesCs\bin\Debug\netcoreapp3.1\IntroClassesCs.pdb
+C:\Users\masen\source\repos\IntroClassesCs\IntroClassesCs\obj\Debug\netcoreapp3.1\IntroClassesCs.csproj.AssemblyReference.cache
+C:\Users\masen\source\repos\IntroClassesCs\IntroClassesCs\obj\Debug\netcoreapp3.1\IntroClassesCs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masen\source\repos\IntroClassesCs\IntroClassesCs\obj\Debug\netcoreapp3.1\IntroClassesCs.AssemblyInfoInputs.cache
+C:\Users\masen\source\repos\IntroClassesCs\IntroClassesCs\obj\Debug\netcoreapp3.1\IntroClassesCs.AssemblyInfo.cs
+C:\Users\masen\source\repos\IntroClassesCs\IntroClassesCs\obj\Debug\netcoreapp3.1\IntroClassesCs.csproj.CoreCompileInputs.cache
+C:\Users\masen\source\repos\IntroClassesCs\IntroClassesCs\obj\Debug\netcoreapp3.1\IntroClassesCs.dll
+C:\Users\masen\source\repos\IntroClassesCs\IntroClassesCs\obj\Debug\netcoreapp3.1\IntroClassesCs.pdb
+C:\Users\masen\source\repos\IntroClassesCs\IntroClassesCs\obj\Debug\netcoreapp3.1\IntroClassesCs.genruntimeconfig.cache
